@@ -14,7 +14,7 @@ type stringsSlice []string
 func showHelp() {
     fmt.Println(`
 
-Usage: CLI Template [OPTIONS]
+Usage: CLI Tarinator [OPTIONS]
 
 Options:
     -c, --compress   Compress files or/and directories (Path must be relative or absolute).
