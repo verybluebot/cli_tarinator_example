@@ -39,3 +39,4 @@ Options:
 
 ## Licence
 [MIT](https://github.com/verybluebot/cli_tarinator_example/blob/master/LICENCE.md)
+
